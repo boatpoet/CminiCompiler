@@ -1,0 +1,4 @@
+mount c d:\Code\asm\DOSBox\Masm
+c:
+MASM OUT.ASM;
+LINK OUT.OBJ;

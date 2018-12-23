@@ -1,0 +1,11 @@
+release/main.o
+release/mainwindow.o
+release/highlighter.o
+release/files.o
+release/search.o
+release/geisttextedit.o
+release/conversion.o
+release/templates.o
+release/moc_mainwindow.o
+release/moc_highlighter.o
+release/moc_geisttextedit.o

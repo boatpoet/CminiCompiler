@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainwindow.o
+debug/highlighter.o
+debug/files.o
+debug/search.o
+debug/geisttextedit.o
+debug/conversion.o
+debug/templates.o
+debug/moc_mainwindow.o
+debug/moc_highlighter.o
+debug/moc_geisttextedit.o
