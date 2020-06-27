@@ -1,5 +1,7 @@
 # CminiCompiler
+
 A compiler that translates C language into 8086 assembly language.
+
 Environment: Qt, DosBox, Cpp
 
 ![pic-1](Screenshots/geist.png)
